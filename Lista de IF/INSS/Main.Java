@@ -1,4 +1,3 @@
-
 package INSS;
 import java.util.Scanner;
 
