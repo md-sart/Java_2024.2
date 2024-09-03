@@ -1,0 +1,21 @@
+Instruções
+1. **Calculadora Simples**
+   - Escreva um programa que peça ao usuário dois números inteiros e exiba a soma, subtração, multiplicação e divisão (caso o denominador não seja zero).
+
+2. **Cálculo do IMC**
+   - Peça ao usuário que insira seu peso (em kg) e altura (em metros). Calcule e exiba o Índice de Massa Corporal (IMC). Depois, com base no valor do IMC, informe ao usuário se ele está abaixo do peso, peso normal, sobrepeso ou obeso.
+
+3. **Cálculo do INSS**
+   - Peça ao usuário para inserir seu salário bruto. Calcule o valor de contribuição ao INSS com base nas alíquotas vigentes. Exiba o valor da contribuição e o salário líquido.
+
+4. **Cálculo do Imposto de Renda**
+   - Peça ao usuário para inserir seu salário bruto. Calcule o valor do imposto de renda na fonte descontado no seu salário conforme as alíquotas vigentes.
+
+5. **Números Pares e Ímpares**
+   - Escreva um programa que peça ao usuário dois números inteiros e exiba todos os números pares e depois todos os números ímpares entre esses dois números.
+
+6. **Fatorial de um Número**
+   - Solicite ao usuário para inserir um número inteiro positivo e calcule o fatorial desse número. Utilize um loop `while` para realizar o cálculo.
+
+7. **Tabuada**
+   - Peça ao usuário para inserir um número inteiro e exiba a tabuada desse número de 1 a 10.
