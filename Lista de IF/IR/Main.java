@@ -22,7 +22,7 @@ public class Main {
 
         
         if (salarioBaseIRRF <= 1903.98) {
-            irrf = 0.0; // Isento
+            irrf = 0.0; 
         } else if (salarioBaseIRRF <= 2826.65) {
             irrf = (salarioBaseIRRF - 1903.98) * 0.075 - 142.80; 
         } else if (salarioBaseIRRF <= 3751.05) {

@@ -15,13 +15,10 @@ public class Main {
         System.out.print("Digite sua altura: ");
         altura = ler.nextDouble();
 
-        // Cálculo do IMC: peso / (altura * altura)
         imc = peso / (altura * altura);
 
-        // Exibe o resultado do IMC
         System.out.println("Seu IMC é: " + imc);
 
-        // Classificação do IMC
         if (imc < 18.5) {
             System.out.println("Você está baixo do peso normal");
         } else if (imc >= 18.5 && imc < 24.9) {
